@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Ankan, a Computer Science and Engineering student of AIUB.
 
 <!--
 **ankansaha99/ankansaha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
