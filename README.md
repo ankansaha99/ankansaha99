@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😎, I'm AS Ankan</h1>
+<h1 align="center">Hi 😎, I'm Ankan</h1>
 <h3 align="center">A passionate developer and a student of AIUB in the Computer Science and Engineering.</h3>
 
 - 🔭 I’m currently working on **Network security**
